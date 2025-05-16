@@ -9,14 +9,14 @@ All these codes are written using Python programming language.
 # Metrics
 This folder contains exmaple subset and codes for chosen metrics from the TMAKPI project.
 The metrics include: 
-    - Minimum Time to Final
-    - Horizontal Spread
-    - Distnace in TMA
-    - Time in TMA
-    - Additional Time
-    - Spacing Deviation
-    - Time Flown Level
-    - Distance on Levels
+- Minimum Time to Final
+- Horizontal Spread
+- Distnace in TMA
+- Time in TMA
+- Additional Time
+- Spacing Deviation
+- Time Flown Level
+- Distance on Levels
 
 The metrics listed above are working with the small example data subset from Stockholm Arlanda aiport (ex_subset_ESSA_2019.csv). The corresponding codes should be run in the order indicated in the names of the codes: 
 - 01_min_time_to_final
